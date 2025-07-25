@@ -1,0 +1,24 @@
+{
+  "movies": [
+    {
+      "title": "Arrival",
+      "image": "images/movies/arrival.jpg"
+    },
+    {
+      "title": "Dune",
+      "image": "images/movies/dune.jpg"
+    }
+  ],
+  "books": [
+    {
+      "title": "Project Hail Mary",
+      "image": "images/books/project_hail_mary.jpg"
+    }
+  ],
+  "shows": [
+    {
+      "title": "Severance",
+      "image": "images/tv/severance.jpg"
+    }
+  ]
+}
