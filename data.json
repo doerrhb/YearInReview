@@ -1,24 +1,172 @@
 {
   "movies": [
     {
-      "title": "Arrival",
-      "image": "images/movies/arrival.jpg"
+      "title": "Fountain of Youth, 2025 - ★★½",
+      "image": "images/movies/fountain_of_youth_2025.jpg"
     },
     {
-      "title": "Dune",
-      "image": "images/movies/dune.jpg"
+      "title": "Benny Loves You, 2019 - ★½",
+      "image": "images/movies/benny_loves_you_2019.jpg"
+    },
+    {
+      "title": "Ballerina, 2025 - ★★★★",
+      "image": "images/movies/ballerina_2025.jpg"
+    },
+    {
+      "title": "Brick, 2025 - ★½",
+      "image": "images/movies/brick_2025.jpg"
+    },
+    {
+      "title": "Thunderbolts*, 2025 - ★★★½",
+      "image": "images/movies/thunderbolts_2025.jpg"
+    },
+    {
+      "title": "Long Distance, 2024 - ★★½",
+      "image": "images/movies/long_distance_2024.jpg"
+    },
+    {
+      "title": "Rear Window, 1954 - ★★★★",
+      "image": "images/movies/rear_window_1954.jpg"
+    },
+    {
+      "title": "The Shadow Strays, 2024 - ★★★½",
+      "image": "images/movies/the_shadow_strays_2024.jpg"
+    },
+    {
+      "title": "Hot Rod, 2007 - ★★★",
+      "image": "images/movies/hot_rod_2007.jpg"
+    },
+    {
+      "title": "Predator: Killer of Killers, 2025 - ★★★★½",
+      "image": "images/movies/predator_killer_of_killers_2025.jpg"
+    },
+    {
+      "title": "Sinners, 2025 - ★★★★½",
+      "image": "images/movies/sinners_2025.jpg"
+    },
+    {
+      "title": "Freaky Tales, 2024 - ★★★½",
+      "image": "images/movies/freaky_tales_2024.jpg"
+    },
+    {
+      "title": "Cleaner, 2025 - ★★½",
+      "image": "images/movies/cleaner_2025.jpg"
+    },
+    {
+      "title": "Novocaine, 2025 - ★★★½",
+      "image": "images/movies/novocaine_2025.jpg"
+    },
+    {
+      "title": "Warfare, 2025 - ★★★★",
+      "image": "images/movies/warfare_2025.jpg"
+    },
+    {
+      "title": "Death of a Unicorn, 2025 - ★★★",
+      "image": "images/movies/death_of_a_unicorn_2025.jpg"
+    },
+    {
+      "title": "The Last Witch Hunter, 2015 - ★★★½",
+      "image": "images/movies/the_last_witch_hunter_2015.jpg"
+    },
+    {
+      "title": "The Vast of Night, 2019 - ★★½",
+      "image": "images/movies/the_vast_of_night_2019.jpg"
+    },
+    {
+      "title": "Havoc, 2025 - ★★★",
+      "image": "images/movies/havoc_2025.jpg"
+    },
+    {
+      "title": "War Machine, 2017 - ★★½",
+      "image": "images/movies/war_machine_2017.jpg"
     }
   ],
   "books": [
     {
-      "title": "Project Hail Mary",
-      "image": "images/books/project_hail_mary.jpg"
+      "title": "The Coming of Conan the Cimmerian (Conan the Cimmerian, #1)",
+      "image": "images/books/the_coming_of_conan_the_cimmerian_conan_the_cimmerian_1.jpg"
+    },
+    {
+      "title": "Good Game, No Rematch: A Hilarious Memoir of Video Games, Personal Growth, and the Intersection of Comedy and Nostalgia",
+      "image": "images/books/good_game_no_rematch_a_hilarious_memoir_of_video_games_personal_growth_and_the_intersection_of_comedy_and_nostalgia.jpg"
+    },
+    {
+      "title": "Armor",
+      "image": "images/books/armor.jpg"
+    },
+    {
+      "title": "Blood of Elves (The Witcher, #1)",
+      "image": "images/books/blood_of_elves_the_witcher_1.jpg"
+    },
+    {
+      "title": "Redshirts",
+      "image": "images/books/redshirts.jpg"
+    },
+    {
+      "title": "The Last Command (Star Wars: The Thrawn Trilogy, #3)",
+      "image": "images/books/the_last_command_star_wars_the_thrawn_trilogy_3.jpg"
+    },
+    {
+      "title": "Snow Crash",
+      "image": "images/books/snow_crash.jpg"
+    },
+    {
+      "title": "Dark Force Rising (Star Wars: The Thrawn Trilogy, #2)",
+      "image": "images/books/dark_force_rising_star_wars_the_thrawn_trilogy_2.jpg"
+    },
+    {
+      "title": "The Adventures of Robinson Crusoe (Great Illustrated Classics)",
+      "image": "images/books/the_adventures_of_robinson_crusoe_great_illustrated_classics.jpg"
+    },
+    {
+      "title": "Heir to the Empire (Star Wars: The Thrawn Trilogy, #1)",
+      "image": "images/books/heir_to_the_empire_star_wars_the_thrawn_trilogy_1.jpg"
+    },
+    {
+      "title": "Vampire$",
+      "image": "images/books/vampire.jpg"
+    },
+    {
+      "title": "Iron Man: Extremis",
+      "image": "images/books/iron_man_extremis.jpg"
+    },
+    {
+      "title": "Rainbow Six (John Clark, #2)",
+      "image": "images/books/rainbow_six_john_clark_2.jpg"
+    },
+    {
+      "title": "The Adventures of Tom Sawyer (Great Illustrated Classics)",
+      "image": "images/books/the_adventures_of_tom_sawyer_great_illustrated_classics.jpg"
+    },
+    {
+      "title": "We Are Legion (We Are Bob) (Bobiverse, #1)",
+      "image": "images/books/we_are_legion_we_are_bob_bobiverse_1.jpg"
+    },
+    {
+      "title": "Ender’s Game (Ender's Saga, #1)",
+      "image": "images/books/ender_s_game_ender_s_saga_1.jpg"
+    },
+    {
+      "title": "Predator: If It Bleeds",
+      "image": "images/books/predator_if_it_bleeds.jpg"
+    },
+    {
+      "title": "Dracula",
+      "image": "images/books/dracula.jpg"
+    },
+    {
+      "title": "Aliens: Bug Hunt",
+      "image": "images/books/aliens_bug_hunt.jpg"
+    },
+    {
+      "title": "Nightmares and Dreamscapes",
+      "image": "images/books/nightmares_and_dreamscapes.jpg"
     }
   ],
   "shows": [
     {
-      "title": "Severance",
-      "image": "images/tv/severance.jpg"
+      "title": "Example Show",
+      "image": "images/tv/example.jpg"
     }
   ]
 }
